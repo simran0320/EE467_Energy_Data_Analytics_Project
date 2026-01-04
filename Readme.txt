@@ -1,6 +1,6 @@
 EE467: Group Project 4 - NILM Solution
 ====================================================================================================
-link to models and datasets: https://drive.google.com/drive/folders/1koDMTKuNAgad_3fsNDMPWkfdIC_JKFdr?usp=sharing
+link to models and datasets: Private Data
 ====================================================================================================
 
 Project Overview
